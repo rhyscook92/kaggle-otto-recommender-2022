@@ -10,7 +10,7 @@ A common approach to this type of problem is that of the two stage recommender, 
 - A second model then refines this large list of candidates into a much smaller subset. This usually involves calculating a number of features for each candidate item (which would be too computationally expensive to do for all items, hence step 1!) and then using these features to rank the items by the probability that they are what the customer wants. 
 
 A summary of the various technical methods used to complete both step 1 and 2 above is shown below: 
-![plot](./docs/pipeline_outline.png)
+![plot](/docs/pipeline_outline.PNG)
 
 ## Optimisations 
 - As mentioned above the code was ran on a high memory virtual machine. 
