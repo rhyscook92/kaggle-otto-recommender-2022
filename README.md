@@ -14,7 +14,7 @@ A summary of the various technical methods used to complete both step 1 and 2 ab
 
 ## Optimisations 
 - As mentioned above the code was ran on a high memory virtual machine. 
-- The feature generation script is written in polars rather than pandas since polars has a much smaller memory footprint, and lead to significant speed ups in the join. 
+- The feature generation script is written in polars rather than pandas since polars has a much smaller memory footprint, and lead to significant speed ups both in calculations but especialy when joining large dataframes. 
 - Most of the functions for loading the datasets allow for subsets to be sampled, this was important for pipeline development. 
 
 ## More information
