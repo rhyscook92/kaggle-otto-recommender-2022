@@ -18,4 +18,4 @@ A summary of the various technical methods used to complete both step 1 and 2 ab
 - Most of the functions for loading the datasets allow for subsets to be sampled, this was important for pipeline development. 
 
 ## More information
-A lot more technical details such as how accuracy improved over time, which features worked best etc. is avaliable in my full [Kaggle write up](https://pages.github.com/).
+A lot more technical details such as how accuracy improved over time, which features worked best etc. is avaliable in my full [Kaggle write up](https://www.kaggle.com/competitions/otto-recommender-system/discussion/383016).
