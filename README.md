@@ -1,5 +1,5 @@
 # OTTO – Multi-Objective Recommender System
-This is the my code for the Kaggle OTTO - Multi-Objective Recommender System challenge in 2022/2023. I finished the competition in the top 2% of participants, coming 52nd out of 2615 teams. The dataset is quite large, especially during later stages of the pipeline so a high ram (200gb+) google cloud virtual machine was used for the later scripts. 
+This is the my code for the Kaggle OTTO - Multi-Objective Recommender System challenge in 2022/2023. I finished the competition in the top 2% of participants, coming 46th out of 2615 teams. The dataset is quite large, especially during later stages of the pipeline so a high ram (200gb+) google cloud virtual machine was used for the later scripts. 
 
 ## Brief competition overview: 
 The goal of the competition is to predict e-commerce clicks, cart additions, and orders from real data provided by Germany's largest online store OTTO. We are given the transaction history of a customer truncated at some point in time, and need to create a model that predicts what items they will click on, add to their cart, and ultimately order. These models enhance retailers' ability to predict which products each customer actually wants to see, add to their cart, and order at any given moment of their visit leading to a more personalised online shopping experience. 
